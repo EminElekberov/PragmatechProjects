@@ -1,0 +1,10 @@
+C:\Users\EMIN\Desktop\tasks\task1\MenuStudent(WinformApi)\bin\Debug\MenuStudent(WinformApi).exe.config
+C:\Users\EMIN\Desktop\tasks\task1\MenuStudent(WinformApi)\bin\Debug\MenuStudent(WinformApi).exe
+C:\Users\EMIN\Desktop\tasks\task1\MenuStudent(WinformApi)\bin\Debug\MenuStudent(WinformApi).pdb
+C:\Users\EMIN\Desktop\tasks\task1\MenuStudent(WinformApi)\obj\Debug\MenuStudent_WinformApi_.Form1.resources
+C:\Users\EMIN\Desktop\tasks\task1\MenuStudent(WinformApi)\obj\Debug\MenuStudent_WinformApi_.Properties.Resources.resources
+C:\Users\EMIN\Desktop\tasks\task1\MenuStudent(WinformApi)\obj\Debug\MenuStudent_WinformApi_.StudentMenu.resources
+C:\Users\EMIN\Desktop\tasks\task1\MenuStudent(WinformApi)\obj\Debug\MenuStudent(WinformApi).csproj.GenerateResource.cache
+C:\Users\EMIN\Desktop\tasks\task1\MenuStudent(WinformApi)\obj\Debug\MenuStudent(WinformApi).csproj.CoreCompileInputs.cache
+C:\Users\EMIN\Desktop\tasks\task1\MenuStudent(WinformApi)\obj\Debug\MenuStudent(WinformApi).exe
+C:\Users\EMIN\Desktop\tasks\task1\MenuStudent(WinformApi)\obj\Debug\MenuStudent(WinformApi).pdb

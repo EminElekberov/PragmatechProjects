@@ -1,0 +1,12 @@
+C:\Users\EMIN\Desktop\tasks\task1\Register\bin\Debug\Register.exe.config
+C:\Users\EMIN\Desktop\tasks\task1\Register\bin\Debug\Register.exe
+C:\Users\EMIN\Desktop\tasks\task1\Register\bin\Debug\Register.pdb
+C:\Users\EMIN\Desktop\tasks\task1\Register\obj\Debug\Register.csproj.AssemblyReference.cache
+C:\Users\EMIN\Desktop\tasks\task1\Register\obj\Debug\Register.AccountCreate.resources
+C:\Users\EMIN\Desktop\tasks\task1\Register\obj\Debug\Register.Form1.resources
+C:\Users\EMIN\Desktop\tasks\task1\Register\obj\Debug\Register.frmMain.resources
+C:\Users\EMIN\Desktop\tasks\task1\Register\obj\Debug\Register.Properties.Resources.resources
+C:\Users\EMIN\Desktop\tasks\task1\Register\obj\Debug\Register.csproj.GenerateResource.cache
+C:\Users\EMIN\Desktop\tasks\task1\Register\obj\Debug\Register.csproj.CoreCompileInputs.cache
+C:\Users\EMIN\Desktop\tasks\task1\Register\obj\Debug\Register.exe
+C:\Users\EMIN\Desktop\tasks\task1\Register\obj\Debug\Register.pdb

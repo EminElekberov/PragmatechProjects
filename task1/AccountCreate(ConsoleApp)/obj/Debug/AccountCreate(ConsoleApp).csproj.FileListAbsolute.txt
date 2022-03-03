@@ -1,0 +1,7 @@
+C:\Users\EMIN\Desktop\tasks\task1\AccountCreate(ConsoleApp)\bin\Debug\AccountCreate(ConsoleApp).exe.config
+C:\Users\EMIN\Desktop\tasks\task1\AccountCreate(ConsoleApp)\bin\Debug\AccountCreate(ConsoleApp).exe
+C:\Users\EMIN\Desktop\tasks\task1\AccountCreate(ConsoleApp)\bin\Debug\AccountCreate(ConsoleApp).pdb
+C:\Users\EMIN\Desktop\tasks\task1\AccountCreate(ConsoleApp)\obj\Debug\AccountCreate(ConsoleApp).csproj.AssemblyReference.cache
+C:\Users\EMIN\Desktop\tasks\task1\AccountCreate(ConsoleApp)\obj\Debug\AccountCreate(ConsoleApp).csproj.CoreCompileInputs.cache
+C:\Users\EMIN\Desktop\tasks\task1\AccountCreate(ConsoleApp)\obj\Debug\AccountCreate(ConsoleApp).exe
+C:\Users\EMIN\Desktop\tasks\task1\AccountCreate(ConsoleApp)\obj\Debug\AccountCreate(ConsoleApp).pdb
